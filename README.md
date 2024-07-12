@@ -1,10 +1,10 @@
 # HackerRank Java Certification Test (Basic)
 
 ## Problem # 1: 
-![How Will you compare](https://github.com/20sw084/HackerRank-Java-Certification-Solutions/blob/main/HowWillYouCompare.java)
+[How Will you compare](https://github.com/20sw084/HackerRank-Java-Certification-Solutions/blob/main/HowWillYouCompare.java)
 
 ## Problem # 2: 
-![Shape](https://github.com/20sw084/HackerRank-Java-Certification-Solutions/blob/main/Shape.java)
+[Shape](https://github.com/20sw084/HackerRank-Java-Certification-Solutions/blob/main/Shape.java)
 
 ## . # 3:
 
