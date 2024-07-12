@@ -8,12 +8,16 @@
 
 ## . # 3:
 
+[https://github.com/20sw084/HackerRank-Java-Certification-Solutions/blob/main/3.png]
 
 ## . # 4:
 
+[https://github.com/20sw084/HackerRank-Java-Certification-Solutions/blob/main/4.png]
 
 ## . # 5:
 
+[https://github.com/20sw084/HackerRank-Java-Certification-Solutions/blob/main/5.png]
 
 ## . # 6:
 
+[https://github.com/20sw084/HackerRank-Java-Certification-Solutions/blob/main/6.png]
